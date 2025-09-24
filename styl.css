@@ -1,0 +1,13 @@
+body{background-color: rgb(114, 138, 184);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: larger;
+   color: rgb(0, 0, 0);}
+   h1{text-align: center;}
+   h2{text-align: center;}
+header{background-color: rgb(201, 218, 228);}
+nav{width: 200px;
+    height: 150px;
+   line-height:2 ;}
+   p{text-align: center;}  
+
+        
