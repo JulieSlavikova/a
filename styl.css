@@ -8,6 +8,14 @@ header{background-color: rgb(201, 218, 228);}
 nav{width: 200px;
     height: 150px;
    line-height:2 ;}
-   p{text-align: center;}  
-
+   p{text-align: center;} 
+   img{width: 350px;
+      float: right;
+      margin-right: 800px;
+      }
+      nav {
+         display: flex;
+         gap: 10px; }
+     
+     
         
