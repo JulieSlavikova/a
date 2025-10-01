@@ -15,7 +15,8 @@ nav{width: 200px;
       }
       nav {
          display: flex;
-         gap: 10px; }
+         gap: 10px; 
+     margin-left: 800px;}
      
      
         
