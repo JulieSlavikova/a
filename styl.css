@@ -17,6 +17,17 @@ nav{width: 200px;
          display: flex;
          gap: 10px; 
          margin-left: 800px;}
+         section{width: 90%;
+            height: 300px; 
+            margin:0 auto ;
+         }
+     
+       
+    
+    nav li{list-style-type: none;}
+    
+    table{text-align: center;
+          margin: 0 auto;}
      
      
         
